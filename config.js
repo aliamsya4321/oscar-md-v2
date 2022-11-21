@@ -5,13 +5,13 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285850539404'] 
-global.mods = ['6285850539404'] 
-global.prems = ['6285850539404'] 
+global.owner = ['6285362461878'] 
+global.mods = ['6285362461878'] 
+global.prems = ['6285362461878'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Jarot offcঔৣ꧂'
-global.numberowner = '6285850539404',
+global.nameowner = 'ᴹᴿ᭄ ASEP offcঔৣ꧂'
+global.numberowner = '6285362461878',
 global.instagram = 'https://instagram.com/Jarotr_'
 global.github = 'https://github.com/Alpiii22'
 global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
@@ -19,9 +19,9 @@ global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.ss = 'https://youtu.be/3m7tRD4RklM'
 global.sss = 'https://youtu.be/PzUH1ApMCig'
 global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.dana = '085850539404'
-global.pulsa = '085850539404'
-global.gopay = '085850539404'
+global.dana = '085362461878'
+global.pulsa = '085362461878'
+global.gopay = '085362461878'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
